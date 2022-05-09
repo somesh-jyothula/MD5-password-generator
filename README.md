@@ -2,4 +2,4 @@
  
  MD5 is nothing but MESSAGE DIGEST ALGORITHM that is widely used hash function producing 128-Bit Hash Value.
  
- This tool converts your passwoed in text format to md5 hash to keep private.
+ This tool converts your password in text format to md5 hash to keep private.
